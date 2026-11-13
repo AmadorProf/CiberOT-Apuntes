@@ -1,6 +1,6 @@
 # CiberOT — Apuntes
 
-[![Página web](https://img.shields.io/badge/Página_web-ver-4A90E2?style=flat-square&logo=github)](https://amadorprof.github.io/CiberOT-Apuntes-Originales/)
+[![Página web](https://img.shields.io/badge/Página_web-ver-4A90E2?style=flat-square&logo=github)](https://amadorprof.github.io/CiberOT-Apuntes/)
 [![Licencia CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-green?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 Apuntes sobre ciberseguridad industrial (OT/ICS): arquitectura Purdue/ISA-95, dispositivos y protocolos de campo, historia de los ciberataques a infraestructuras críticas, la familia de normas ISA/IEC 62443 en profundidad, y defensa (segmentación, DMZ industrial, monitorización e IDS). Redactado desde cero citando fuentes públicas (normas, informes de incidentes, MITRE ATT&CK for ICS); no deriva de ningún curso privado.
