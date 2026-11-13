@@ -1,5 +1,5 @@
-title: "CiberOT — Apuntes originales"
-description: "Apuntes originales de ciberseguridad industrial (OT/ICS): arquitectura Purdue, protocolos, amenazas e ISA/IEC 62443, con bibliografía propia"
+title: "CiberOT — Apuntes"
+description: "Apuntes de ciberseguridad industrial (OT/ICS): arquitectura Purdue, protocolos, amenazas e ISA/IEC 62443, con bibliografía propia"
 theme: jekyll-theme-cayman
 defaults:
   - scope:
