@@ -1,0 +1,39 @@
+- title: 01 - Arquitectura OT - el modelo Purdue y la norma ISA-95
+  filename: 01 - Arquitectura OT - el modelo Purdue y la norma ISA-95
+  url: 01%20-%20Arquitectura%20OT%20-%20el%20modelo%20Purdue%20y%20la%20norma%20ISA-95
+- title: 02 - Dispositivos de campo y control - PLC RTU DCS SCADA HMI
+  filename: 02 - Dispositivos de campo y control - PLC RTU DCS SCADA HMI
+  url: 02%20-%20Dispositivos%20de%20campo%20y%20control%20-%20PLC%20RTU%20DCS%20SCADA%20HMI
+- title: 03 - Protocolos de comunicacion industrial - Modbus DNP3 OPC-UA PROFINET
+  filename: 03 - Protocolos de comunicacion industrial - Modbus DNP3 OPC-UA PROFINET
+  url: 03%20-%20Protocolos%20de%20comunicacion%20industrial%20-%20Modbus%20DNP3%20OPC-UA%20PROFINET
+- title: 04 - Por que OT no es IT - superficie de ataque y consecuencias fisicas
+  filename: 04 - Por que OT no es IT - superficie de ataque y consecuencias fisicas
+  url: 04%20-%20Por%20que%20OT%20no%20es%20IT%20-%20superficie%20de%20ataque%20y%20consecuencias%20fisicas
+- title: 05 - Historia de los ciberataques a infraestructuras criticas
+  filename: 05 - Historia de los ciberataques a infraestructuras criticas
+  url: 05%20-%20Historia%20de%20los%20ciberataques%20a%20infraestructuras%20criticas
+- title: 06 - MITRE ATTACK for ICS y modelado de amenazas
+  filename: 06 - MITRE ATTACK for ICS y modelado de amenazas
+  url: 06%20-%20MITRE%20ATTACK%20for%20ICS%20y%20modelado%20de%20amenazas
+- title: 07 - Estructura de la familia 62443 - niveles de seguridad y zonas
+  filename: 07 - Estructura de la familia 62443 - niveles de seguridad y zonas
+  url: 07%20-%20Estructura%20de%20la%20familia%2062443%20-%20niveles%20de%20seguridad%20y%20zonas
+- title: 08 - El CSMS y el programa de seguridad del propietario del activo
+  filename: 08 - El CSMS y el programa de seguridad del propietario del activo
+  url: 08%20-%20El%20CSMS%20y%20el%20programa%20de%20seguridad%20del%20propietario%20del%20activo
+- title: 09 - Analisis de riesgos y requisitos de sistema - 62443-3-2 y 62443-3-3
+  filename: 09 - Analisis de riesgos y requisitos de sistema - 62443-3-2 y 62443-3-3
+  url: 09%20-%20Analisis%20de%20riesgos%20y%20requisitos%20de%20sistema%20-%2062443-3-2%20y%2062443-3-3
+- title: 10 - Seguridad de producto y componente - comparativa con NIST y NERC CIP
+  filename: 10 - Seguridad de producto y componente - comparativa con NIST y NERC CIP
+  url: 10%20-%20Seguridad%20de%20producto%20y%20componente%20-%20comparativa%20con%20NIST%20y%20NERC%20CIP
+- title: 11 - Segmentacion y DMZ industrial
+  filename: 11 - Segmentacion y DMZ industrial
+  url: 11%20-%20Segmentacion%20y%20DMZ%20industrial
+- title: 12 - Monitorizacion pasiva y analisis de trafico OT
+  filename: 12 - Monitorizacion pasiva y analisis de trafico OT
+  url: 12%20-%20Monitorizacion%20pasiva%20y%20analisis%20de%20trafico%20OT
+- title: 13 - IDS en OT - plataformas comerciales y alternativas open-source
+  filename: 13 - IDS en OT - plataformas comerciales y alternativas open-source
+  url: 13%20-%20IDS%20en%20OT%20-%20plataformas%20comerciales%20y%20alternativas%20open-source
