@@ -1,6 +1,10 @@
 title: "CiberOT — Apuntes"
 description: "Apuntes de ciberseguridad industrial (OT/ICS): arquitectura Purdue, protocolos, amenazas e ISA/IEC 62443, con bibliografía propia"
 theme: jekyll-theme-cayman
+remote_theme: AmadorProf/jekyll-tema-apuntes
+github_repo: AmadorProf/CiberOT-Apuntes
+plugins:
+  - jekyll-remote-theme
 defaults:
   - scope:
       path: ""
